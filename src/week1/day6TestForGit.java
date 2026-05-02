@@ -4,5 +4,6 @@ public class day6TestForGit {
     static void main() {
         System.out.println("hello git");
         System.out.println("MUEHEHEHEHEHE");
+        System.out.println("another one");
     }
 }
